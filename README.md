@@ -1,1 +1,1 @@
-# WENexH_Trial.jl
+Dohom_Trial.jl is a Julia module that models the Domestic Hot Water Demand at a household level. It is still under construction.
