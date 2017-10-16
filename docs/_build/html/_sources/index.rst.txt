@@ -1,0 +1,22 @@
+.. Dohom_Trial.jl documentation master file, created by
+   sphinx-quickstart on Mon Oct 16 09:55:03 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Dohom_Trial.jl's documentation!
+==========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+This is a documentation test for the Dohom_Trial.jl Module
+	     
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
